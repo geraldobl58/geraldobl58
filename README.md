@@ -22,3 +22,4 @@
 <img align="left" height="20" src="https://raw.githubusercontent.com/geraldobl58/geraldobl58/master/images/nodejs.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/geraldobl58/geraldobl58/master/images/react.png">
 <img height="20" src="https://raw.githubusercontent.com/geraldobl58/geraldobl58/master/images/javascript.png">
+<img height="20" src="https://raw.githubusercontent.com/geraldobl58/geraldobl58/master/images/docker.png">
