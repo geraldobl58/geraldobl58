@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React, Styled Components, Javascript, Typescript, Next**
 
-- 🚀 I'm a software engineer at [Via Varejo](https://www.viavarejo.com.br/)
+- 🚀 I'm a software engineer
 
 <!-- - 👨‍💻 All of my projects are available at [https://geraldoluiz-dev.vercel.app/](https://geraldoluiz-dev.vercel.app/)-->
 
