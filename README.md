@@ -18,10 +18,6 @@ With solid experience in React, TypeScript, PHP (Laravel), and modern frontend t
 <h3 align="left">Technical Skills & Tools:</h3>
 
 <img align="left" height="20" alt="TypeScript" src="https://raw.githubusercontent.com/geraldobl58/geraldobl58/master/images/typescript.png" />
-<img align="left" height="20" alt="Node.js" src="https://raw.githubusercontent.com/geraldobl58/geraldobl58/master/images/nodejs.png" />
-<img align="left" height="20" alt="React" src="https://raw.githubusercontent.com/geraldobl58/geraldobl58/master/images/react.png" />
-<img align="left" height="20" alt="JavaScript" src="https://raw.githubusercontent.com/geraldobl58/geraldobl58/master/images/javascript.png" />
-<img height="30" alt="Docker" src="https://raw.githubusercontent.com/geraldobl58/geraldobl58/master/images/docker.png" />
 
 <br clear="both" />
 
@@ -38,21 +34,5 @@ I have hands-on experience in:
 - Testing and quality assurance: Jest, Testing Library, Storybook  
 - DevOps and cloud: Azure, Git/GitHub, CI/CD pipelines  
 - Agile methodologies: SCRUM  
-- Databases: MongoDB, MySQL, PostgreSQL  
-
-<h3 align="left">Conventional Commits Emoji Guide</h3>
-
-| Type     | Emoji                 | Code                    |
-|:---------|:----------------------|:------------------------|
-| init     | 🎉                    | `:tada:`                |
-| feat     | ✨                    | `:sparkles:`            |
-| fix      | 🐛                    | `:bug:`                 |
-| docs     | 📚                    | `:books:`               |
-| style    | 💎                    | `:gem:`                 |
-| refactor | 🔨                    | `:hammer:`              |
-| perf     | 🚀                    | `:rocket:`              |
-| test     | 🚨                    | `:rotating_light:`      |
-| build    | 📦                    | `:package:`             |
-| ci       | 👷                    | `:construction_worker:` |
-| chore    | 🔧                    | `:wrench:`              |
+- Databases: MongoDB, MySQL, PostgreSQL
 
