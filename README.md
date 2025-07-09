@@ -17,7 +17,7 @@ With solid experience in React, TypeScript, PHP (Laravel), and modern frontend t
 
 <h3 align="left">Technical Skills & Tools:</h3>
 
-<img align="left" height="20" alt="TypeScript" src="https://raw.githubusercontent.com/geraldobl58/geraldobl58/master/images/typescript.png" />
+<img align="left" height="20" alt="Tecnologies" src="https://raw.githubusercontent.com/geraldobl58/geraldobl58/master/images/techs.png" />
 
 <br clear="both" />
 
