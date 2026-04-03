@@ -1,38 +1,51 @@
-<h1 align="left">Hi 👋, I'm Geraldo Luiz</h1>
-<h3 align="left">Full Stack Software Engineer specialized in frontend development, SEO, and scalable digital solutions</h3>
+# Hi 👋, I'm Geraldo Luiz
 
-I'm passionate about creating tailored, high-performance web applications and digital products that drive measurable business impact.  
-With solid experience in React, TypeScript, PHP (Laravel), and modern frontend tooling, I deliver solutions combining excellent user experience, technical quality, and SEO optimization.
+<h3 align="left">Senior Full Stack Software Engineer | 15+ Years of Experience</h3>
 
-- 🌱 Currently deepening my expertise in **React, Styled Components, JavaScript, TypeScript, Next.js**  
-- 🚀 Experienced in both frontend and backend development, including CMS customization (WordPress, Drupal), API integrations, and cloud deployment  
-- 📫 Feel free to reach out: **geraldobl58@gmail.com**
+Professional specialized in building high-performance, scalable digital solutions. With over **15 years in the industry**, I bridge the gap between complex backend architectures and seamless frontend experiences.
 
-<h3 align="left">Connect with me:</h3>
+- 🌍 **International Freelance Ready:** Actively looking for global opportunities.
+- 🚀 **Core Stack:** Next.js, TypeScript, Tailwind CSS, and NestJS.
+- 🛠️ **Expertise:** Scalable Web Platforms, SEO Optimization, and API Design.
+- 📫 Reach me at: **geraldobl58@gmail.com**
+
+---
+
+### 🛠️ Technical
+
+| Category           | Technologies                                                    |
+| :----------------- | :-------------------------------------------------------------- |
+| **Frontend**       | **Next.js**, React, TypeScript, Tailwind CSS, Styled Components |
+| **Backend**        | **NestJS**, Node.js, PHP (Laravel), Go                          |
+| **Mobile**         | React Native                                                    |
+| **Database**       | PostgreSQL, MongoDB, MySQL                                      |
+| **DevOps & Tools** | Azure, Docker, ArgoCD, CI/CD, Jest, Storybook, Git              |
+| **Legacy/CMS**     | WordPress, Drupal, Magento                                      |
+
+---
+
+### 🔗 Connect with me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/geraldo-luiz-b626ab31/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="20" width="20" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:geraldobl58@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.g3developer.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
-<h3 align="left">Technical Skills & Tools:</h3>
+---
 
-<img align="left" alt="Tecnologies" src="https://raw.githubusercontent.com/geraldobl58/geraldobl58/master/images/techs.png" />
+### 👨‍💻 About Me
 
-<br clear="both" />
+Working on high-traffic E-commerce solutions and large-scale data processing to empower merchants in building their brands and connections within a robust marketplace ecosystem.
 
-<h3 align="left">About Me</h3>
+Frontend & UI/UX: Developing complex dashboards and high-performance interfaces using Next.js 15, Tailwind CSS, and Material UI (MUI).
 
-I specialize in building custom digital solutions that help businesses of all sizes grow organically and efficiently.  
-My work includes developing scalable web platforms with optimized SEO, designing seamless user experiences, and integrating complex backend systems.  
+Architecture & APIs: Implementing seamless integrations with REST APIs to handle large volumes of data and improve merchant workflows.
 
-I have hands-on experience in:
-
-- Frontend frameworks and libraries: React, React Native, Next.js, Styled Components  
-- Backend development with PHP (Laravel), Node.js, NestJS, GraphQL  
-- CMS customization: WordPress, Drupal, Magento  
-- Testing and quality assurance: Jest, Testing Library, Storybook  
-- DevOps and cloud: Azure, Git/GitHub, CI/CD pipelines  
-- Agile methodologies: SCRUM  
-- Databases: MongoDB, MySQL, PostgreSQL
-
+Quality Assurance: Ensuring code reliability and UI consistency through automated testing with Vitest and Jest, along with component documentation using Storybook.
