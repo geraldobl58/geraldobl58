@@ -1,30 +1,50 @@
 # Hi 👋, I'm Geraldo Luiz
 
-<h3 align="left">Senior Full Stack Software Engineer | 15+ Years of Experience</h3>
+<h3 align="left">Senior Full-Stack Engineer | 13+ Years | Multi-Tenant SaaS · NestJS · Next.js · Kubernetes</h3>
 
-Professional specialized in building high-performance, scalable digital solutions. With over **15 years in the industry**, I bridge the gap between complex backend architectures and seamless frontend experiences.
+Building production systems at scale for over a decade. Currently **Senior Software Engineer at UOL Group** (one of Brazil's largest tech companies), previously **7+ years at Casas Bahia** — Brazil's biggest retailer — delivering e-commerce platforms for global brands like **HP** and **AOC**.
 
-- 🌍 **International Freelance Ready:** Actively looking for global opportunities.
-- 🚀 **Core Stack:** Next.js, TypeScript, Tailwind CSS, and NestJS.
-- 🛠️ **Expertise:** Scalable Web Platforms, SEO Optimization, and API Design.
-- 📫 Reach me at: **geraldobl58@gmail.com**
-
----
-
-### 🛠️ Technical
-
-| Category           | Technologies                                                    |
-| :----------------- | :-------------------------------------------------------------- |
-| **Frontend**       | **Next.js**, React, TypeScript, Tailwind CSS, Styled Components |
-| **Backend**        | **NestJS**, Node.js, PHP (Laravel), Go                          |
-| **Mobile**         | React Native                                                    |
-| **Database**       | PostgreSQL, MongoDB, MySQL                                      |
-| **DevOps & Tools** | Azure, Docker, ArgoCD, CI/CD, Jest, Storybook, Git              |
-| **Legacy/CMS**     | WordPress, Drupal, Magento                                      |
+- 🚀 **Specialized in:** Multi-tenant SaaS, e-commerce platforms, AI-integrated applications
+- 🛠️ **Stack:** NestJS · Next.js · TypeScript · PostgreSQL · Kubernetes · Stripe · Claude API
+- 📫 Reach me: **geraldobl58@gmail.com**
 
 ---
 
-### 🔗 Connect with me
+### 🚀 Featured Projects
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **[Snap Financial](https://github.com/geraldobl58/snap-financial)** | NestJS · Next.js · Claude API · Stripe | AI-powered personal finance — snap a receipt, AI extracts the data |
+| **[Crivo SaaS](https://github.com/sass-crivo/crivo)** | NestJS · Prisma · Keycloak · Stripe · Kong | Production-grade multi-tenant SaaS boilerplate |
+| **[Infra Lab](https://github.com/infra-devops-full/infra)** | K8s · ArgoCD · Helm · Prometheus · Grafana | Full GitOps platform with 4 environments and observability |
+
+---
+
+### 🛠️ Technical Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | Next.js 15/16, React 19, TypeScript, Tailwind CSS, MUI, Styled Components |
+| **Backend** | NestJS, Node.js, Prisma, REST APIs, PHP/Laravel |
+| **Database** | PostgreSQL, MongoDB, Redis |
+| **DevOps** | Docker, Kubernetes, ArgoCD, Helm, GitHub Actions, Azure DevOps |
+| **Auth & Payments** | Keycloak, OAuth/OIDC, Stripe (subscriptions, webhooks, billing) |
+| **API Gateway** | Kong, rate limiting, JWT validation |
+| **Observability** | Prometheus, Grafana, Loki, OpenTelemetry |
+| **AI Integration** | Anthropic Claude API, OpenAI |
+| **Testing** | Jest, Vitest, Cypress, Storybook |
+
+---
+
+### 💼 Experience Highlights
+
+- **UOL Group** *(Jan 2026 – Present)* — Senior Engineer building high-traffic e-commerce dashboards with Next.js 15, MUI, and large-scale REST integrations
+- **Estadão** *(Nov 2024 – Nov 2025)* — Tech Lead on WordPress → ARCXP CMS migration: 100% data integrity, 40% performance boost
+- **Casas Bahia / Via** *(Jun 2017 – Sep 2024)* — 7+ years building B2B/B2C platforms for HP, AOC, and other global brands
+
+---
+
+### 🌐 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/geraldo-luiz-b626ab31/" target="_blank">
@@ -33,19 +53,7 @@ Professional specialized in building high-performance, scalable digital solution
   <a href="mailto:geraldobl58@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.g3developer.com.br/" target="_blank">
+  <a href="https://www.g3developer.com.br/en" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
----
-
-### 👨‍💻 About Me
-
-Working on high-traffic E-commerce solutions and large-scale data processing to empower merchants in building their brands and connections within a robust marketplace ecosystem.
-
-Frontend & UI/UX: Developing complex dashboards and high-performance interfaces using Next.js 15, Tailwind CSS, and Material UI (MUI).
-
-Architecture & APIs: Implementing seamless integrations with REST APIs to handle large volumes of data and improve merchant workflows.
-
-Quality Assurance: Ensuring code reliability and UI consistency through automated testing with Vitest and Jest, along with component documentation using Storybook.
